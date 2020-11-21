@@ -14,9 +14,11 @@ body,
 #dummy {
   height: 50vh;
 }
+
 #love {
   height: 40vh;
 }
+
 .grid-container {
   display: grid;
   grid-template-areas: "header" "main" "footer";
